@@ -1,14 +1,9 @@
 import React from 'react'
-import Header from './header/header'
-import Section1 from './section1/section1'
-
-const App = () => {
+import './index.css'
+function App() {
   return (
     <div>
-      <Header />
-      <Section1>
-        <butn />
-      </Section1>
+      
     </div>
   )
 }
